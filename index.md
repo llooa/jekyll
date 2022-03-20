@@ -1,4 +1,6 @@
-Home[index.md] | Cast[Cast.md] | Collectible[Collectibles.md]
+# Welcome to LS Jekyll Project
+
+[Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 # StarGazers
 
