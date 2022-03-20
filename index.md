@@ -1,4 +1,4 @@
-## Welcome to My Jekyll
+Home[index.md] | Cast[Cast.md] | Collectible[Collectibles.md]
 
 # StarGazers
 
