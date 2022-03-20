@@ -1,4 +1,4 @@
-# Collectibles
+# Jekyll: Collectibles
 
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
