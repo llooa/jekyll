@@ -1,10 +1,11 @@
 ---
 ---
 
-@import "{{ site.theme }}"
+$header-bg-color: purple;
+
+@import "{{ site.theme }}";
 
 .main-content h1 {
-
     color: #1599FF;
 }
 
