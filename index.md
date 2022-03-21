@@ -1,6 +1,6 @@
 # Welcome to LS Jekyll Project
 
-[Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
+[Home](index.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 [LinkedIn]({site.linkedin})
 
