@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: This is Site Title
+description: Site Description
+show_downloads: true
+linkedin: "https://linkedin.com/in/lslooa"
