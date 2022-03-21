@@ -16,3 +16,4 @@ Stargazers are fluent in **JavaScript**, so once you connect to their network, s
 console.log("Take me to your leader");
 ```
 
+{% include disclaimer.html %}
